@@ -1,1 +1,85 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="pxt-on-start" id="e,Dr?_;CmMnS:b?rrYgD" x="3" y="-105"></block><block type="device_forever" id="9:V_|qhh|4Z!oPex5OLq" x="0" y="0"></block></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="pxt-on-start" id="e,Dr?_;CmMnS:b?rrYgD" x="56" y="-9"></block><block type="device_forever" id="9:V_|qhh|4Z!oPex5OLq" x="60" y="234"></block><block type="device_show_leds" id="JNq%l54?3!?8_d/13kyH" disabled-reasons="ORPHANED_BLOCK,MANUALLY_DISABLED" x="350" y="234"><field name="LEDS">`
+        # . . . # 
+        # # . # # 
+        # . # . # 
+        # . . . # 
+        # . . . #
+        `</field></block><block type="device_show_leds" id="Gg|-$1$6vdOoDF52~mRN" disabled-reasons="ORPHANED_BLOCK,MANUALLY_DISABLED" x="530" y="234"><field name="LEDS">`
+        # # # # . 
+        # . . . . 
+        # # # . . 
+        # . . . . 
+        # # # # .
+        `</field></block><block type="device_show_leds" id="i5h^}{*288hdAhz-]WM;" disabled-reasons="ORPHANED_BLOCK,MANUALLY_DISABLED" x="718" y="227"><field name="LEDS">`
+        # # # . . 
+        # . . # . 
+        # # # . . 
+        # . . # . 
+        # . . . #
+        `</field></block><block type="device_show_leds" id="E|Y_~Aotqy+;7iFQ:SX%" disabled-reasons="ORPHANED_BLOCK,MANUALLY_DISABLED" x="899" y="225"><field name="LEDS">`
+        # # # . . 
+        # . . # . 
+        # # # . . 
+        # . . # . 
+        # . . . #
+        `</field></block><block type="device_show_leds" id="?!@f:Uz07Jro?XLpj`@=" disabled-reasons="ORPHANED_BLOCK,MANUALLY_DISABLED" x="1082" y="221"><field name="LEDS">`
+        # . . . # 
+        . # . # . 
+        . . # . . 
+        . . # . . 
+        . . # . .
+        `</field></block><block type="device_show_leds" id="KZ-suFIE@Jh]PcJ`TTeG" disabled-reasons="ORPHANED_BLOCK,MANUALLY_DISABLED" x="337" y="566"><field name="LEDS">`
+        . # # # . 
+        # . . . . 
+        # . . . . 
+        # . . . . 
+        . # # # .
+        `</field></block><block type="device_show_leds" id="]aj}si{MtN(8Rn3g?E2m" disabled-reasons="ORPHANED_BLOCK,MANUALLY_DISABLED" x="516" y="563"><field name="LEDS">`
+        # . . . # 
+        # . . . # 
+        # # # # # 
+        # . . . # 
+        # . . . #
+        `</field></block><block type="device_show_leds" id="=B|A^]o3LgQ#B^x[=$G!" disabled-reasons="ORPHANED_BLOCK,MANUALLY_DISABLED" x="702" y="560"><field name="LEDS">`
+        # # # . . 
+        # . . # . 
+        # # # . . 
+        # . . # . 
+        # . . . #
+        `</field></block><block type="device_show_leds" id="CMj6k^~`JKxXJ5i-0rNI" disabled-reasons="ORPHANED_BLOCK,MANUALLY_DISABLED" x="889" y="556"><field name="LEDS">`
+        # # # # # 
+        . . # . . 
+        . . # . . 
+        . . # . . 
+        # # # # #
+        `</field></block><block type="device_show_leds" id="vUey@+f3#!O]IRWQj}j=" disabled-reasons="ORPHANED_BLOCK,MANUALLY_DISABLED" x="1069" y="550"><field name="LEDS">`
+        . # # # # 
+        # . . . . 
+        . # # # . 
+        . . . . # 
+        # # # # .
+        `</field></block><block type="device_show_leds" id="BJ1e[#;nV(IAeP9Ne_FB" disabled-reasons="ORPHANED_BLOCK,MANUALLY_DISABLED" x="1245" y="545"><field name="LEDS">`
+        # # # # # 
+        . . # . . 
+        . . # . . 
+        . . # . . 
+        . . # . .
+        `</field></block><block type="device_show_leds" id="j}2f@69rZ3[5MaI]qeT2" disabled-reasons="ORPHANED_BLOCK,MANUALLY_DISABLED" x="1425" y="539"><field name="LEDS">`
+        # . . . # 
+        # # . # # 
+        # . # . # 
+        # . . . # 
+        # . . . #
+        `</field></block><block type="device_show_leds" id="qr^QIAbz=hGm~{cx*0-R" disabled-reasons="ORPHANED_BLOCK,MANUALLY_DISABLED" x="1618" y="542"><field name="LEDS">`
+        . # # # . 
+        # . . . # 
+        # # # # # 
+        # . . . # 
+        # . . . #
+        `</field></block><block type="device_show_leds" id="uJ64p{pG7eZh?YIOb?w~" disabled-reasons="ORPHANED_BLOCK,MANUALLY_DISABLED" x="1800" y="544"><field name="LEDS">`
+        . # # # # 
+        # . . . . 
+        . # # # . 
+        . . . . # 
+        # # # # .
+        `</field></block></xml>
